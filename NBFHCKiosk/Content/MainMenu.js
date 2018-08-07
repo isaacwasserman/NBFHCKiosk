@@ -26,7 +26,30 @@ export default class MainMenu extends React.Component {
       {
         title: 'learning the trade',
         imageFile: require('./Images/Placeholders/MainMenuItems/MainMenuItem1.jpg'),
-        SubMenu: [{title: 'person1'}, {title: 'person2'}, {title: 'person3'}, {title: 'person4'}, {title: 'person5'}, {title: 'person6'}]
+        SubMenu: [{
+          title: 'person1',
+          itemImage: {uri: 'https://picsum.photos/300?random'}
+        },
+        {
+          title: 'person2',
+          itemImage: {uri: 'https://picsum.photos/300?random'}
+        },
+        {
+          title: 'person3',
+          itemImage: {uri: 'https://picsum.photos/300?random'}
+        },
+        {
+          title: 'person4',
+          itemImage: {uri: 'https://picsum.photos/300?random'}
+        },
+        {
+          title: 'person5',
+          itemImage: {uri: 'https://picsum.photos/300?random'}
+        },
+        {
+          title: 'person6',
+          itemImage: {uri: 'https://picsum.photos/300?random'}
+        }]
       },
       {
         title: 'a typical day',
