@@ -1,16 +1,3 @@
-/**
- * Copyright (c) 2015-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-#import <UIKit/UIKit.h>
-
-#import "AppDelegate.h"
-
-int main(int argc, char * argv[]) {
-  @autoreleasepool {
-    return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f33a2673000a04c9fec6f99176ef0b7da0571dc1306035cee3105b08e89a1805
+size 384

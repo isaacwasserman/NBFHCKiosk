@@ -1,8 +1,3 @@
-const functions = require('firebase-functions');
-
-// // Create and Deploy Your First Cloud Functions
-// // https://firebase.google.com/docs/functions/write-firebase-functions
-//
-// exports.helloWorld = functions.https.onRequest((request, response) => {
-//  response.send("Hello from Firebase!");
-// });
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7db6eb25360f99e59ee9838ca0f0a61b969b2f2798a89e472921d1bdce86be8
+size 303

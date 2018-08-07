@@ -1,8 +1,3 @@
-keystore(
-    name = "debug",
-    properties = "debug.keystore.properties",
-    store = "debug.keystore",
-    visibility = [
-        "PUBLIC",
-    ],
-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d157beb6e922c4e15b4d858bf753a2452dca248f77e779db887748c1bc90cc9d
+size 152

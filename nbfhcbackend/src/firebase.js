@@ -1,12 +1,3 @@
-import firebase from 'firebase'
-var config = {
-    apiKey: "AIzaSyCHJ8AmK0JjMtu8mdL4_vBpchshQTXDXAw",
-    authDomain: "nbfhckiosk.firebaseapp.com",
-    databaseURL: "https://nbfhckiosk.firebaseio.com",
-    projectId: "nbfhckiosk",
-    storageBucket: "nbfhckiosk.appspot.com",
-    messagingSenderId: "611677241375"
-  };
-firebase.initializeApp(config);
-
-export default firebase;
+version https://git-lfs.github.com/spec/v1
+oid sha256:b11a3e15af3e2851051259f83db009ab800f34a0e3e69b4df3ccb9a2b532c78d
+size 377

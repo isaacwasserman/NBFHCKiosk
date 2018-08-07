@@ -1,18 +1,3 @@
-import React from 'react';
-import { createStackNavigator } from 'react-navigation';
-
-import MainMenu from './Content/MainMenu.js';
-import SubMenu from './Content/SubMenu.js';
-
-export default createStackNavigator({
-    MainMenu: {
-      screen: MainMenu
-    },
-    SubMenu: {
-      screen: SubMenu
-    }
-  },
-  {
-    headerMode: 'screen'
-  }
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:f37362f28157dc96084ef75f65fab4f35ce4b84bfa84e17f6bcb63f4fb02c2aa
+size 344

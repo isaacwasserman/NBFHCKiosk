@@ -1,15 +1,3 @@
-package com.nbfhckiosk;
-
-import com.facebook.react.ReactActivity;
-
-public class MainActivity extends ReactActivity {
-
-    /**
-     * Returns the name of the main component registered from JavaScript.
-     * This is used to schedule rendering of the component.
-     */
-    @Override
-    protected String getMainComponentName() {
-        return "NBFHCKiosk";
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:acac1fa4bb07e02771cfcc46b34101d5e16b3bbb80490117247753b79240d4b9
+size 365
