@@ -1,12 +1,3 @@
-FHCKiosk/
-nbfhcbackend/
-NBFHCKioskOLD/
-NBFHCKioskOLD2/
-nbfhc-web-kiosk/
-nbfhc-web-kiosk-editable/
-nbfhc-web-kiosk-editable-html/
-nbfhc-web-kiosk-editable-video-html/
-nbfhc-web-kiosk-editable-videos/
-Fully\ Extensible\ Version
-nbfhc-web-kiosk-editable-html
-node_modules
+version https://git-lfs.github.com/spec/v1
+oid sha256:0de29c2f9b62c9644c9ec38fd51f8419e233cfae83058eb85e3556bfea1ebc18
+size 269
